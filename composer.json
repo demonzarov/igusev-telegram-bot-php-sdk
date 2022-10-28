@@ -1,5 +1,5 @@
 {
-    "name": "telegram-bot/api",
+    "name": "demonzarov/igusev-telegram-bot-php-sdk",
     "description": "PHP Wrapper for Telegram Bot API",
     "keywords": [
         "php",
